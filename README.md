@@ -11,7 +11,12 @@ O script Python é executado **diretamente no Power BI**, garantindo que os dado
 - Ideal para análises meteorológicas e demonstração de integração Python + BI.
 
 ## Tecnologias
-- Python 3.x
+- Python
 - Bibliotecas Python: `requests`, `pandas`
 - API utilizada: [Open-Meteo](https://open-meteo.com/)
 - Power BI Desktop (dashboard interativo)
+
+## Teste dia 17/10/2025
+
+<img width="1273" height="709" alt="image" src="https://github.com/user-attachments/assets/ebd40d13-849f-433f-a2df-6f0cdd16208d" />
+
