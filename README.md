@@ -20,3 +20,8 @@ O script Python é executado **diretamente no Power BI**, garantindo que os dado
 
 <img width="1273" height="709" alt="image" src="https://github.com/user-attachments/assets/ebd40d13-849f-433f-a2df-6f0cdd16208d" />
 
+## Teste dia 18/10/2025
+
+<img width="1319" height="738" alt="image" src="https://github.com/user-attachments/assets/a6be6ab5-fe11-4a96-ae31-d1253c027566" />
+
+
